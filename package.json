@@ -4,6 +4,7 @@
   "description": "Fast and almost Gaussian blur by Mario Klingemann",
   "main": "dist/stackblur.js",
   "module": "dist/stackblur-es.js",
+  "types": "./index.d.ts"
   "browserslist": {
     "target": "cover 100%"
   },
